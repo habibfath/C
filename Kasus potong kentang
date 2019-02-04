@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main (){
+	
+	int pisau;
+	int kentang;
+	pisau = 1;
+	kentang = 1;
+	cout << " mulai mengupas kentang " <<endl;
+	
+	kentang = kentang + pisau ;
+	pisau = 0 ;
+	cout << " selesai mengupas kentang " <<endl;
+	return 0 ;
+}
