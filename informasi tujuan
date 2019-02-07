@@ -1,0 +1,16 @@
+/*
+* Nama Prosedur : SimpanNama
+* Keterangan Parameter
+Masukan :
+    nama ->
+    merupakan nama
+Peserta didik
+    yang akan disimpan
+* Keadaan Awal : Nama belum
+ disimpan ke basis data
+* Keadaan Akhir : Nama telah disimpan ke basis data
+*/
+void cariNama (char*nama){
+...............................
+......
+}
